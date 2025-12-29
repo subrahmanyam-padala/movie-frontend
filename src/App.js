@@ -7,7 +7,7 @@ import Layout from './components/Layout';
 import Home from './components/home/Home';
 import Trailer from './components/trailer/Trailer';
 import Reviews from './components/reviews/Reviews';
-import WatchList from './components/watchList/WatchList';
+import WatchList from './components/watchList/WatchList.js';
 import NotFound from './components/notFound/NotFound';
 
 function App() {
